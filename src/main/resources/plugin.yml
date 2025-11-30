@@ -1,0 +1,8 @@
+name: pruebahola
+version: '1.0-SNAPSHOT'
+main: org.elpepe.pruebahola.Pruebahola
+api-version: '1.21'
+commands:
+  volar:
+    description: Activar o desactivar vuelo
+    usage: /volar
