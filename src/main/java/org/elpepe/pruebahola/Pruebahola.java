@@ -15,6 +15,7 @@ public final class Pruebahola extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new LANASALTO(),this);
         getServer().getPluginManager().registerEvents(new AZADAORO(),this);
         getServer().getPluginManager().registerEvents(new ITEMRANDOM(),this);
+        getServer().getPluginManager().registerEvents(new FlechasExplosivas(),this);
     }
 
 
